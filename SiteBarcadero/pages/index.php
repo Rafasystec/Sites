@@ -64,7 +64,7 @@
                         <li>
                             <a href="#">
                                 <div>
-                                    <strong>John Smith</strong>
+                                    <strong>Rafael Rocha</strong>
                                     <span class="pull-right text-muted">
                                         <em>Yesterday</em>
                                     </span>
@@ -280,10 +280,10 @@
                             <!-- /input-group -->
                         </li>
                         <li>
-                            <a href="index.php"><i class="fa fa-dashboard fa-fw"></i> Dashboard</a>
+                            <a href="index.php"><i class="fa fa-dashboard fa-fw"></i> Início</a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i> Charts<span class="fa arrow"></span></a>
+                            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i> Gráficos<span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
                                 <li>
                                     <a href="flot.html">Flot Charts</a>
@@ -391,7 +391,7 @@
                                 </div>
                                 <div class="col-xs-9 text-right">
                                     <div class="huge">26</div>
-                                    <div>New Comments!</div>
+                                    <div>Comentários!</div>
                                 </div>
                             </div>
                         </div>
@@ -412,8 +412,8 @@
                                     <i class="fa fa-tasks fa-5x"></i>
                                 </div>
                                 <div class="col-xs-9 text-right">
-                                    <div class="huge">12</div>
-                                    <div>New Tasks!</div>
+                                    <div class="huge">2</div>
+                                    <div>Atualizações!</div>
                                 </div>
                             </div>
                         </div>
@@ -434,8 +434,8 @@
                                     <i class="fa fa-shopping-cart fa-5x"></i>
                                 </div>
                                 <div class="col-xs-9 text-right">
-                                    <div class="huge">124</div>
-                                    <div>New Orders!</div>
+                                    <div class="huge">5</div>
+                                    <div>Novos Projetos!</div>
                                 </div>
                             </div>
                         </div>
@@ -456,8 +456,8 @@
                                     <i class="fa fa-support fa-5x"></i>
                                 </div>
                                 <div class="col-xs-9 text-right">
-                                    <div class="huge">13</div>
-                                    <div>Support Tickets!</div>
+                                    <div class="huge">3</div>
+                                    <div>Reuniões</div>
                                 </div>
                             </div>
                         </div>
@@ -476,22 +476,22 @@
                 <div class="col-lg-8">
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            <i class="fa fa-bar-chart-o fa-fw"></i> Area Chart Example
+                            <i class="fa fa-bar-chart-o fa-fw"></i> Gráfico de Acessos
                             <div class="pull-right">
                                 <div class="btn-group">
                                     <button type="button" class="btn btn-default btn-xs dropdown-toggle" data-toggle="dropdown">
-                                        Actions
+                                        Ações
                                         <span class="caret"></span>
                                     </button>
                                     <ul class="dropdown-menu pull-right" role="menu">
-                                        <li><a href="#">Action</a>
+                                        <li><a href="#">Ação</a>
                                         </li>
-                                        <li><a href="#">Another action</a>
+                                        <li><a href="#">Detalhar</a>
                                         </li>
-                                        <li><a href="#">Something else here</a>
+                                        <li><a href="#">Sites Semelhantes</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li><a href="#">Separated link</a>
+                                        <li><a href="#">Enviar mensagem</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -608,7 +608,7 @@
                     <!-- /.panel -->
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            <i class="fa fa-clock-o fa-fw"></i> Responsive Timeline
+                            <i class="fa fa-clock-o fa-fw"></i> Linha do Tempo
                         </div>
                         <!-- /.panel-heading -->
                         <div class="panel-body">
@@ -618,12 +618,12 @@
                                     </div>
                                     <div class="timeline-panel">
                                         <div class="timeline-heading">
-                                            <h4 class="timeline-title">Lorem ipsum dolor</h4>
-                                            <p><small class="text-muted"><i class="fa fa-clock-o"></i> 11 hours ago via Twitter</small>
+                                            <h4 class="timeline-title">Victor Mendes</h4>
+                                            <p><small class="text-muted"><i class="fa fa-clock-o"></i> 11 horas atrás via Twitter</small>
                                             </p>
                                         </div>
                                         <div class="timeline-body">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero laboriosam dolor perspiciatis omnis exercitationem. Beatae, officia pariatur? Est cum veniam excepturi. Maiores praesentium, porro voluptas suscipit facere rem dicta, debitis.</p>
+                                            <p>Ei Rafael, pode ser que amanhã consígamos finalmente marcar uma reunião. Fico aguarda você me confimar sua agenda. Abraço. </p>
                                         </div>
                                     </div>
                                 </li>
@@ -632,11 +632,11 @@
                                     </div>
                                     <div class="timeline-panel">
                                         <div class="timeline-heading">
-                                            <h4 class="timeline-title">Lorem ipsum dolor</h4>
+                                            <h4 class="timeline-title">Janete Sousa</h4>
                                         </div>
                                         <div class="timeline-body">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolorem quibusdam, tenetur commodi provident cumque magni voluptatem libero, quis rerum. Fugiat esse debitis optio, tempore. Animi officiis alias, officia repellendus.</p>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium maiores odit qui est tempora eos, nostrum provident explicabo dignissimos debitis vel! Adipisci eius voluptates, ad aut recusandae minus eaque facere.</p>
+                                            <p>Não entendi o que foi feito de novo no sistema? Por favor me enviar a documentação de mudança</p>
+                                            <p>Falei com o Rony pra fechar o contrato...</p>
                                         </div>
                                     </div>
                                 </li>
@@ -645,20 +645,22 @@
                                     </div>
                                     <div class="timeline-panel">
                                         <div class="timeline-heading">
-                                            <h4 class="timeline-title">Lorem ipsum dolor</h4>
+                                            <h4 class="timeline-title">Rafael Rocha</h4>
                                         </div>
                                         <div class="timeline-body">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus numquam facilis enim eaque, tenetur nam id qui vel velit similique nihil iure molestias aliquam, voluptatem totam quaerat, magni commodi quisquam.</p>
+                                            <p>Pessoal!!! Alguém sabe bootstrap? Quero dá uma repaginada no meu site e torná-lo responsivo. Pode ser também o contato de alguém</p>
+                                        	<p>Outra coisa, abri uma nova vaga para programador WEB em AngularJS, de preferencia que saiba BootStrap e NodeJS</p>
                                         </div>
                                     </div>
                                 </li>
                                 <li class="timeline-inverted">
                                     <div class="timeline-panel">
                                         <div class="timeline-heading">
-                                            <h4 class="timeline-title">Lorem ipsum dolor</h4>
+                                            <h4 class="timeline-title">George - Administrador</h4>
                                         </div>
                                         <div class="timeline-body">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates est quaerat asperiores sapiente, eligendi, nihil. Itaque quos, alias sapiente rerum quas odit! Aperiam officiis quidem delectus libero, omnis ut debitis!</p>
+                                            <p>As alterações no Site ficaram prontas, mas só vou atualizar amanhã as 2:20 da madrugada pra não atrapalhar o sistema que gerencia os transportes</p>
+                                        	<p>Antes que me esqueça, quita-feira terá avaliação pessoal de desempenho, a empresa precisa fazer cortes, então se liga.</p>
                                         </div>
                                     </div>
                                 </li>
@@ -667,24 +669,25 @@
                                     </div>
                                     <div class="timeline-panel">
                                         <div class="timeline-heading">
-                                            <h4 class="timeline-title">Lorem ipsum dolor</h4>
+                                            <h4 class="timeline-title">Amanda Nunes</h4>
                                         </div>
                                         <div class="timeline-body">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis minus modi quam ipsum alias at est molestiae excepturi delectus nesciunt, quibusdam debitis amet, beatae consequuntur impedit nulla qui! Laborum, atque.</p>
+                                            <p>Alguém postou no FaceBook que a empresa iria abrir uma vaga para desenvolvedor Front-end, acho que foi o Rafael.</p>
+                                            <p>Ele pedio sigilo mas é o primeiro a espalhar. Outra coisa, amanhã não teremos nosso treinamento devido à avaliação... Bjs</p>
                                             <hr>
                                             <div class="btn-group">
                                                 <button type="button" class="btn btn-primary btn-sm dropdown-toggle" data-toggle="dropdown">
                                                     <i class="fa fa-gear"></i>  <span class="caret"></span>
                                                 </button>
                                                 <ul class="dropdown-menu" role="menu">
-                                                    <li><a href="#">Action</a>
+                                                    <li><a href="#">Apagar Comentário</a>
                                                     </li>
-                                                    <li><a href="#">Another action</a>
+                                                    <li><a href="#">Denunciar</a>
                                                     </li>
-                                                    <li><a href="#">Something else here</a>
+                                                    <li><a href="#">Recomendar</a>
                                                     </li>
                                                     <li class="divider"></li>
-                                                    <li><a href="#">Separated link</a>
+                                                    <li><a href="#">Responder</a>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -723,70 +726,70 @@
                 <div class="col-lg-4">
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            <i class="fa fa-bell fa-fw"></i> Notifications Panel
+                            <i class="fa fa-bell fa-fw"></i> Notificações
                         </div>
                         <!-- /.panel-heading -->
                         <div class="panel-body">
                             <div class="list-group">
                                 <a href="#" class="list-group-item">
-                                    <i class="fa fa-comment fa-fw"></i> New Comment
+                                    <i class="fa fa-comment fa-fw"></i> 5 novos Comentários
                                     <span class="pull-right text-muted small"><em>4 minutes ago</em>
                                     </span>
                                 </a>
                                 <a href="#" class="list-group-item">
-                                    <i class="fa fa-twitter fa-fw"></i> 3 New Followers
-                                    <span class="pull-right text-muted small"><em>12 minutes ago</em>
+                                    <i class="fa fa-twitter fa-fw"></i> 3 Novos Seguidores
+                                    <span class="pull-right text-muted small"><em>12 minutos atrás</em>
                                     </span>
                                 </a>
                                 <a href="#" class="list-group-item">
-                                    <i class="fa fa-envelope fa-fw"></i> Message Sent
-                                    <span class="pull-right text-muted small"><em>27 minutes ago</em>
+                                    <i class="fa fa-envelope fa-fw"></i> 12 Mensagens Enviadas
+                                    <span class="pull-right text-muted small"><em>27 minutos atrás</em>
                                     </span>
                                 </a>
                                 <a href="#" class="list-group-item">
-                                    <i class="fa fa-tasks fa-fw"></i> New Task
-                                    <span class="pull-right text-muted small"><em>43 minutes ago</em>
+                                    <i class="fa fa-tasks fa-fw"></i> Novas Tarefas
+                                    <span class="pull-right text-muted small"><em>43 minutos atrás</em>
                                     </span>
                                 </a>
                                 <a href="#" class="list-group-item">
-                                    <i class="fa fa-upload fa-fw"></i> Server Rebooted
-                                    <span class="pull-right text-muted small"><em>11:32 AM</em>
+                                    <i class="fa fa-upload fa-fw"></i> Atualização dos Serivdores
+                                    <span class="pull-right text-muted small"><em>22:30</em>
                                     </span>
                                 </a>
                                 <a href="#" class="list-group-item">
                                     <i class="fa fa-bolt fa-fw"></i> Server Crashed!
-                                    <span class="pull-right text-muted small"><em>11:13 AM</em>
+                                    <span class="pull-right text-muted small"><em>23:13</em>
                                     </span>
                                 </a>
                                 <a href="#" class="list-group-item">
                                     <i class="fa fa-warning fa-fw"></i> Server Not Responding
-                                    <span class="pull-right text-muted small"><em>10:57 AM</em>
+                                    <span class="pull-right text-muted small"><em>10:57</em>
                                     </span>
                                 </a>
                                 <a href="#" class="list-group-item">
-                                    <i class="fa fa-shopping-cart fa-fw"></i> New Order Placed
-                                    <span class="pull-right text-muted small"><em>9:49 AM</em>
+                                    <i class="fa fa-shopping-cart fa-fw"></i> Novo Projeto
+                                    <span class="pull-right text-muted small"><em>9:49</em>
                                     </span>
                                 </a>
                                 <a href="#" class="list-group-item">
-                                    <i class="fa fa-money fa-fw"></i> Payment Received
-                                    <span class="pull-right text-muted small"><em>Yesterday</em>
+                                    <i class="fa fa-money fa-fw"></i> Projeto Faturado 35%
+                                    <span class="pull-right text-muted small"><em>Ontem</em>
                                     </span>
                                 </a>
                             </div>
                             <!-- /.list-group -->
-                            <a href="#" class="btn btn-default btn-block">View All Alerts</a>
+                            <a href="#" class="btn btn-default btn-block">Todos os Alertas</a>
                         </div>
                         <!-- /.panel-body -->
                     </div>
                     <!-- /.panel -->
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            <i class="fa fa-bar-chart-o fa-fw"></i> Donut Chart Example
+                            <i class="fa fa-bar-chart-o fa-fw"></i> Projeto Sindata-WEB
                         </div>
                         <div class="panel-body">
                             <div id="morris-donut-chart"></div>
-                            <a href="#" class="btn btn-default btn-block">View Details</a>
+                            <a href="#" class="btn btn-default btn-block">Detalhes</a>
                         </div>
                         <!-- /.panel-body -->
                     </div>
@@ -802,28 +805,28 @@
                                 <ul class="dropdown-menu slidedown">
                                     <li>
                                         <a href="#">
-                                            <i class="fa fa-refresh fa-fw"></i> Refresh
+                                            <i class="fa fa-refresh fa-fw"></i> Atualizar
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <i class="fa fa-check-circle fa-fw"></i> Available
+                                            <i class="fa fa-check-circle fa-fw"></i> Disponível
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <i class="fa fa-times fa-fw"></i> Busy
+                                            <i class="fa fa-times fa-fw"></i> Ocupado
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <i class="fa fa-clock-o fa-fw"></i> Away
+                                            <i class="fa fa-clock-o fa-fw"></i> Ausente
                                         </a>
                                     </li>
                                     <li class="divider"></li>
                                     <li>
                                         <a href="#">
-                                            <i class="fa fa-sign-out fa-fw"></i> Sign Out
+                                            <i class="fa fa-sign-out fa-fw"></i> Sair
                                         </a>
                                     </li>
                                 </ul>
@@ -838,13 +841,13 @@
                                     </span>
                                     <div class="chat-body clearfix">
                                         <div class="header">
-                                            <strong class="primary-font">Jack Sparrow</strong>
+                                            <strong class="primary-font">João Bezerra</strong>
                                             <small class="pull-right text-muted">
                                                 <i class="fa fa-clock-o fa-fw"></i> 12 mins ago
                                             </small>
                                         </div>
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare dolor, quis ullamcorper ligula sodales.
+                                            Meu site está com um problema no credenciamento dos novos delegados, já pessei um e-mail.
                                         </p>
                                     </div>
                                 </li>
@@ -859,7 +862,7 @@
                                             <strong class="pull-right primary-font">Bhaumik Patel</strong>
                                         </div>
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare dolor, quis ullamcorper ligula sodales.
+                                            Tenho uma entrevista para fazer com um potencial colaborador, tu pode me passar por favor as normas da empresa.
                                         </p>
                                     </div>
                                 </li>
@@ -869,12 +872,12 @@
                                     </span>
                                     <div class="chat-body clearfix">
                                         <div class="header">
-                                            <strong class="primary-font">Jack Sparrow</strong>
+                                            <strong class="primary-font">Jack Ferrer</strong>
                                             <small class="pull-right text-muted">
                                                 <i class="fa fa-clock-o fa-fw"></i> 14 mins ago</small>
                                         </div>
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare dolor, quis ullamcorper ligula sodales.
+                                            Mandei o bunner do Site da faculdade errado e não tenho a senha do FTP, amanhã em conserto.
                                         </p>
                                     </div>
                                 </li>
@@ -886,10 +889,10 @@
                                         <div class="header">
                                             <small class=" text-muted">
                                                 <i class="fa fa-clock-o fa-fw"></i> 15 mins ago</small>
-                                            <strong class="pull-right primary-font">Bhaumik Patel</strong>
+                                            <strong class="pull-right primary-font">Juliana Gomes</strong>
                                         </div>
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum ornare dolor, quis ullamcorper ligula sodales.
+                                            Já consegui fechar o local onde será nossa confraternização de final de ano, ainda não acertei os detalhes, mas adorei o local, espero que gostem. Depois publico as fotos.
                                         </p>
                                     </div>
                                 </li>
