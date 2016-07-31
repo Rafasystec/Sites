@@ -69,7 +69,7 @@
                                         <em>Yesterday</em>
                                     </span>
                                 </div>
-                                <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend...</div>
+                                <div>Temos que começar a atualização do Site</div>
                             </a>
                         </li>
                         <li class="divider"></li>
@@ -81,7 +81,7 @@
                                         <em>Yesterday</em>
                                     </span>
                                 </div>
-                                <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend...</div>
+                                <div>OK iniciaremos agora mesmo!!!!!</div>
                             </a>
                         </li>
                         <li class="divider"></li>
@@ -116,7 +116,7 @@
                             <a href="#">
                                 <div>
                                     <p>
-                                        <strong>Sindata-WEB</strong>
+                                        <strong>Nautilus-WEB</strong>
                                         <span class="pull-right text-muted">25% Concluído</span>
                                     </p>
                                     <div class="progress progress-striped active">
@@ -137,7 +137,7 @@
                                     </p>
                                     <div class="progress progress-striped active">
                                         <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 20%">
-                                            <span class="sr-only">60% Complete</span>
+                                            <span class="sr-only">60% Complete (Ainda em desenvolvimento)</span>
                                         </div>
                                     </div>
                                 </div>
@@ -148,12 +148,12 @@
                             <a href="#">
                                 <div>
                                     <p>
-                                        <strong>Área de desenvolvimento</strong>
-                                        <span class="pull-right text-muted">60% Concluído</span>
+                                        <strong>Projeto PET-SHOW</strong>
+                                        <span class="pull-right text-muted">10% Concluído</span>
                                     </p>
                                     <div class="progress progress-striped active">
-                                        <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
-                                            <span class="sr-only">60% Complete (warning)</span>
+                                        <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
+                                            <span class="sr-only">10% Complete (warning)</span>
                                         </div>
                                     </div>
                                 </div>
@@ -164,7 +164,7 @@
                             <a href="#">
                                 <div>
                                     <p>
-                                        <strong>App Sindata Mobile</strong>
+                                        <strong>App Mobile - Varejo</strong>
                                         <span class="pull-right text-muted">0% Concluído</span>
                                     </p>
                                     <div class="progress progress-striped active">
